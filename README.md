@@ -1,31 +1,31 @@
-<h1 align="center">Hi 👋, I'm Keertan Singh</h1>
-<h3 align="center">Aspiring Software Engineer | ML & Data Science Enthusiast | DSA Learner</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keertan07&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<h1 align="center">Keertan Singh</h1>
+<h3 align="center">Aspiring Software Engineer | Data Science & Machine Learning | Building by Doing</h3>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me:
 
-- 🎓 3rd year CSE student from Tier-3 college  
-- 💻 Passionate about **Machine Learning, Data Science & Problem Solving**  
-- 🛠 Actively building **real-world ML & analytics projects**  
-- 🎯 Target: **12–16 LPA software / ML engineering roles**  
+- 🔭 I’m currently working on  
+  - Machine Learning based projects, data analysis, and GenAI mini tools  
+
+- 🤝 I’m looking to collaborate on  
+  - Data Science, Machine Learning, and AI-driven projects  
+
+- 🧠 I’m looking for help with  
+  - Advanced ML concepts, real-world datasets, and industry-level project exposure  
+
+- 🌱 I’m currently learning  
+  - Data Science, Machine Learning, DSA, SQL, and Generative AI fundamentals  
+
+- 💬 Ask me about  
+  - Python, Pandas, Matplotlib, ML basics, data analytics workflows  
+
+- ⚡ Fun fact  
+  - I enjoy turning raw data into meaningful insights and practical solutions  
 
 ---
 
-## 🧠 Currently Learning
-
-- Advanced **DSA & Competitive Programming**
-- **ML Model Deployment**
-- **SQL & Data Engineering basics**
-- **System Design fundamentals**
-
----
-
-## 🤝 Connect With Me
+## 🌐 Socials:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
@@ -38,49 +38,54 @@
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack:
 
 <p align="left">
-<img src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-lightgrey?logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-blue?logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-purple?logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-green?logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=keertan07&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=keertan07&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=keertan07&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keertan07&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=keertan07&theme=darkhub&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=keertan07&theme=radical&row=1&column=7"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 📌 Top Contributed Repositories:
 
-- 🤖 **Face Recognition Attendance System**
-- 📈 **Stock Price Predictor**
-- 🧠 **LLM & GenAI Mini Projects**
-- 📊 **Diwali Sales EDA & ML Analysis**
+- 🤖 Face Recognition Attendance System  
+- 📈 Stock Price Predictor  
+- 🧠 LLM & GenAI Mini Projects  
+- 📊 Diwali Sales Analysis & ML  
 
 ---
 
-⭐ *Building daily. Compounding skills.*
+## ✨ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
